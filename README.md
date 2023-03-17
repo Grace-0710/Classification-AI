@@ -15,5 +15,9 @@ MNIST Classification 예제
   
     <img width="270" alt="스크린샷 2023-03-18 오전 12 00 33" src="https://user-images.githubusercontent.com/84004919/225942379-c5e4f8f5-ac2b-4ce2-a420-cd004b7b0eda.png">
 
+  - index_select 역할 : input차원을 따라 텐서를 인덱싱하는 새 텐서를 반환
+  
+    <img width="320" alt="스크린샷 2023-03-18 오전 12 05 24" src="https://user-images.githubusercontent.com/84004919/225943505-2f7eef38-40ff-4936-8ca5-c0025a39e639.png">
+
     
     

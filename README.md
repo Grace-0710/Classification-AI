@@ -25,5 +25,9 @@ MNIST Classification 예제
     이후 다음 루프에서 zero_grad()를 하지않고 역전파를 시키면 이전 루프에서 .grad에 저장된 값이 다음 루프의 업데이트에도 간섭을 해서 원하는 방향으로 학습이 안된다고 한다.
     따라서 루프가 한번 돌고나서 역전파를 하기전에 반드시 zero_grad()로 .grad 값들을 0으로 초기화시킨 후 학습을 진행해야 한다.
 
-    
+* train.py : trainer를 train.py가 data loader와 함꼐 들고서 학습 진행 == 최상단 코드
+  - main
+  
+    <img width="293" alt="스크린샷 2023-03-18 오전 12 25 39" src="https://user-images.githubusercontent.com/84004919/225948484-8d0e11e3-c5e0-4a96-a4a1-8984fe968a4d.png">
+
     

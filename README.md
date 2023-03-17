@@ -32,4 +32,9 @@ MNIST Classification 예제
 
 - Atam : Adaptive Moment Estimation(Adam)은 딥러닝 최적화 기법 중 하나로써 Momentum과 RMSProp의 장점을 결합한 알고리즘
   ( 즉, 학습의 방향과 크기(=Learning rate)를 모두 개선한 기법으로 딥러닝에서 가장 많이 사용되어 "오던" 최적화 기법 )
-    
+ 
+ 
+* train.py CLI에서 실행
+
+  <img width="1076" alt="스크린샷 2023-03-18 오전 12 32 29" src="https://user-images.githubusercontent.com/84004919/225950209-b5f40a43-e834-4872-8171-6d10df9907d3.png">
+
